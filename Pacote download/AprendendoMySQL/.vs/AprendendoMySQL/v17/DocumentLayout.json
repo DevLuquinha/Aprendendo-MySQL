@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Micro\\source\\repos\\AprendendoMySQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69CA388D-0F14-40E5-8E84-4EEEDA87FCFD}|AprendendoMySQL\\AprendendoMySQL.csproj|c:\\users\\micro\\source\\repos\\aprendendomysql\\aprendendomysql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69CA388D-0F14-40E5-8E84-4EEEDA87FCFD}|AprendendoMySQL\\AprendendoMySQL.csproj|solutionrelative:aprendendomysql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CA388D-0F14-40E5-8E84-4EEEDA87FCFD}|AprendendoMySQL\\AprendendoMySQL.csproj|c:\\users\\micro\\source\\repos\\aprendendomysql\\aprendendomysql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CA388D-0F14-40E5-8E84-4EEEDA87FCFD}|AprendendoMySQL\\AprendendoMySQL.csproj|solutionrelative:aprendendomysql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 83,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\source\\repos\\AprendendoMySQL\\AprendendoMySQL\\Form1.cs",
+              "RelativeDocumentMoniker": "AprendendoMySQL\\Form1.cs",
+              "ToolTip": "C:\\Users\\Micro\\source\\repos\\AprendendoMySQL\\AprendendoMySQL\\Form1.cs",
+              "RelativeToolTip": "AprendendoMySQL\\Form1.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAwwFgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:12:19.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Micro\\source\\repos\\AprendendoMySQL\\AprendendoMySQL\\Form1.cs",
+              "RelativeDocumentMoniker": "AprendendoMySQL\\Form1.cs",
+              "ToolTip": "C:\\Users\\Micro\\source\\repos\\AprendendoMySQL\\AprendendoMySQL\\Form1.cs [Design]",
+              "RelativeToolTip": "AprendendoMySQL\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:06:56.468Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
